@@ -4,7 +4,7 @@
 
 <img src="resources/mmseg-logo.png" width="500"/>
 
-**VAK-Former** is a research-oriented semantic segmentation framework built on top of **MMSegmentation**, designed specifically for **Unmanned Surface Vehicle (USV) perception in maritime environments**.  
+**VAK-Former** is a research oriented semantic segmentation framework built on top of **MMSegmentation**, designed specifically for **Unmanned Surface Vehicle (USV) perception in maritime environments**.  
 The project focuses on improving segmentation accuracy on the **LARS Maritime Dataset** using a **Mask2Former architecture with a Swin-L Transformer backbone**.
 
 </div>

@@ -4,8 +4,10 @@
 
 <img src="resources/mmseg-logo.png" width="500"/>
 
+  
 **VAK-Former** is a research-oriented semantic segmentation framework built on top of **MMSegmentation**, designed for **autonomous inspection of Unmanned Surface Vessels (USVs) in maritime environments**.  
 The project implements a **Mask2Former-style transformer architecture with a Swin-Large backbone**, evaluated on the **LaRS (Lakes, Rivers and Seas) Maritime Dataset**.
+
 
 </div>
 
